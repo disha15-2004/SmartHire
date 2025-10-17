@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -37,3 +38,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 "# SmartHire" 
 "# SmartHire" 
 "# SmartHire" 
+=======
+# SmartHire
+An AI based interview platform using Next.js, TailwindCSS, Firebase, and Vapi Voice AI SDK.
+>>>>>>> b2e0780ddf4bdfe7e3d05f949f6f5c8f8e058d13
